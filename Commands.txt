@@ -1,4 +1,4 @@
-#Start Gut
+#Start Git
 Git init
 
 
